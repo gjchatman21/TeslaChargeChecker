@@ -2,7 +2,7 @@
 
 Tesla Charge Checker Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://github.com/gjchatman21/TeslaChargeChecker (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you download and use <app_location>.
 
 PERSONAL INFORMATION WE COLLECT
 
