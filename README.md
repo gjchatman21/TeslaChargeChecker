@@ -25,7 +25,7 @@ DATA RETENTION
 - We do not retain any data
 
 MINORS
-The app is intended for any age.
+- The app is intended for any age.
 
 CHANGES
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
