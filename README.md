@@ -33,6 +33,6 @@ We may update this privacy policy from time to time in order to reflect, for exa
 CONTACT US
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at gjchatman21@gmail.com or by mail using the details provided below:
 
-  667 Flag Circle, Hoover, AL, 35226, United States
+Flag Circle, Hoover, AL, 35226, United States
 
 Privacy Policy
